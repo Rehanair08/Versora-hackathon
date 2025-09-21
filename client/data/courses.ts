@@ -1,0 +1,60 @@
+import type { Course } from "@/components/CourseCard";
+
+export const allCourses: Course[] = [
+  {
+    id: "c1",
+    title: "React Fundamentals",
+    level: "Beginner",
+    tags: ["React", "JavaScript", "Frontend"],
+    progress: 72,
+    quizProgress: 60,
+  },
+  {
+    id: "c2",
+    title: "TypeScript Mastery",
+    level: "Intermediate",
+    tags: ["TypeScript", "Types", "Best Practices"],
+    progress: 34,
+    quizProgress: 20,
+  },
+  {
+    id: "c3",
+    title: "UI/UX Design Basics",
+    level: "Beginner",
+    tags: ["Design", "Accessibility", "Figma"],
+    progress: 100,
+    quizProgress: 100,
+    completed: true,
+  },
+  {
+    id: "c4",
+    title: "Data Structures & Algorithms",
+    level: "Advanced",
+    tags: ["DSA", "Algorithms", "Problem Solving"],
+    progress: 12,
+    quizProgress: 0,
+  },
+  {
+    id: "c5",
+    title: "Node.js APIs with Express",
+    level: "Intermediate",
+    tags: ["Node", "Express", "Backend"],
+    progress: 0,
+    quizProgress: 0,
+  },
+  {
+    id: "c6",
+    title: "SQL for Analysts",
+    level: "Beginner",
+    tags: ["SQL", "Data", "Analytics"],
+    progress: 58,
+  },
+  {
+    id: "c7",
+    title: "Machine Learning Intro",
+    level: "Beginner",
+    tags: ["ML", "Python", "AI"],
+    progress: 0,
+    quizProgress: 0,
+  },
+];

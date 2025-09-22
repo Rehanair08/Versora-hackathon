@@ -16,7 +16,7 @@ The above image gives a glimpse toward the courses page of the web app. This hel
 <img width="1919" height="833" alt="image" src="https://github.com/user-attachments/assets/7a82f15a-8207-4ed2-a646-091e1ed21eb3" />
 The quiz page, provides two option as stated above - quiz on anything and quiz on courses taken. The quiz page is enabled by google gemini API. Further more, the app also provides gmail updates about the new highest score etc,. This is enabled by Google Gmail API. 
 <img width="1895" height="863" alt="image" src="https://github.com/user-attachments/assets/e53bfd9b-1758-4a89-b41f-690114cafb27" />
-The progress bar also contains a graph as stated above for a more user friendly approach. 
+The progress bar also contains a graph as stated above for a more user friendly approach. The settings page however, allows the person to change their passwords, usernames etc,. 
 Hence, Versora provides a new-age personalisation learning app. 
 
 ## Installation 

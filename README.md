@@ -2,6 +2,7 @@
 ## Table of Contents 
 - [Description](#description)
 - [About the app](#about-the-app)
+- [Deployment](#deployment)
 - [Installation](#installation)
 ## Description 
 This project is build using next.js frontend and backend. It provides a reactive real-time platform for personlised learning. The functionning of the app is provided by Google API keys. The app helps people to learn according to their pace, and interests. It tracks their courses, quizes them in it and even tracks their progress and streaks for additional motivation. 
@@ -18,7 +19,9 @@ The quiz page, provides two option as stated above - quiz on anything and quiz o
 <img width="1895" height="863" alt="image" src="https://github.com/user-attachments/assets/e53bfd9b-1758-4a89-b41f-690114cafb27" />
 The progress bar also contains a graph as stated above for a more user friendly approach. The settings page however, allows the person to change their passwords, usernames etc,. 
 Hence, Versora provides a new-age personalisation learning app. 
-
+## Deployment 
+The app is hosted in versel and can be accessed using this URL: 
+https://v0-personalized-learning-app-delta.vercel.app/
 ## Installation 
 1. Clone the repository
 2. Install dependencies: `npm install`
